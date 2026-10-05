@@ -4,3 +4,4 @@ Repositorio de prueba 2DAW
 
 Estado del proyecto: versión estable.
 
+Estado del proyecto: versión en desarrollo.
