@@ -1,0 +1,10 @@
+# Ficheros generados por MkDocs
+site/
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Ficheros temporales de Python
+__pycache__/
+*.pyc
